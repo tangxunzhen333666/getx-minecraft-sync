@@ -1,4 +1,4 @@
-# GetX Minecraft Sync
+# GetX for QQ Sync
 
 只读取 X（原 Twitter） 公开动态，并同步到两个 QQ 频道。
 
